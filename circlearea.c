@@ -12,6 +12,7 @@ int main(){
 
     double area= calculateArea(radius);
     printf("Your circle's area is %lf.",area);
+    system("pause");
     return 0;
 }
 

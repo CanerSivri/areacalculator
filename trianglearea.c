@@ -11,5 +11,6 @@ int main() {
 
     double area = calculateArea(floor, height);
     printf("Your triangle's area is %lf.\n", area);
+    system("pause");
     return 0;
 }
